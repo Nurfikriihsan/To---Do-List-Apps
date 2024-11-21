@@ -1,0 +1,77 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/lets_start.png
+  - assets/images/todays_tasks.png
+  - assets/images/add_project_in_task_list.png
+  - assets/images/home.png
+  - assets/images/close_up_of_pink_coffee_cup.png
+  - assets/images/female_sitting_on_the_floor_with_cup_in_hand_and_laptop_on_leg.png
+  - assets/images/blue_stopwatch_with_pink_arrow.png
+  - assets/images/vase_with_tulips_glasses_and_pencil.png
+  - assets/images/multicolored_smartphone_notifications.png
+  - assets/images/blue_desk_calendar.png
+  - assets/images/pie_chart.png
+  - assets/vectors/container_2_x2.svg
+  - assets/vectors/arrow_left_3_x2.svg
+  - assets/images/home.png
+  - assets/images/add_project_in_task_list.png
+  - assets/images/todays_tasks.png
+  - assets/images/figma_png.png
+  - assets/images/adobexdplatform_com_png.png
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/images/thumbnail_1.png
+  - assets/images/n_11.jpeg
+  - assets/images/n_1.jpeg
+  - assets/vectors/dribbble_1_x2.svg
+  - assets/vectors/dribbble_x2.svg
+  - assets/vectors/smiling_face_with_heart_eyes_x2.svg
+  - assets/vectors/behance_x2.svg
+  - assets/vectors/behance_1_x2.svg
+  - assets/images/ellipse_291.png
+  - assets/images/ellipse_29.png
+  - assets/vectors/arrow_left_x2.svg
+  - assets/vectors/arrow_down_22_x2.svg
+  - assets/vectors/vuesaxboldbriefcase_1_x2.svg
+  - assets/vectors/calendar_x2.svg
+  - assets/vectors/arrow_down_24_x2.svg
+  - assets/vectors/arrow_down_23_x2.svg
+  - assets/vectors/container_1_x2.svg
+  - assets/vectors/vuesaxboldnotification_x2.svg
+  - assets/vectors/calendar_1_x2.svg
+  - assets/images/add_project_in_task_list.png
+  - assets/images/lets_start.png
+  - assets/images/todays_tasks.png
+  - assets/images/figma_png.png
+  - assets/images/home.png
+  - assets/images/adobexdplatform_com_png.png
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/sketch_symbol_x2.svg
+  - assets/vectors/vector_6_x2.svg
+
